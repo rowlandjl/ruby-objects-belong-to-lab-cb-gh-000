@@ -1,3 +1,6 @@
 class Artist
 
-end 
+  def initialize
+  end
+
+end
